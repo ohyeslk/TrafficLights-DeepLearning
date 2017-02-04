@@ -171,7 +171,7 @@ class XavierFiller : public Filler<Dtype> {
  *        @f$ \sigma^2 @f$ is set inversely proportional to number of incoming
  *        nodes, outgoing nodes, or their average.
  *
- * A Filler based on the paper [He, Zhang, Ren and Sun 2015]: Specifically
+ * A Filler based on the paper [He, Zhang, Ren and Sun 2016]: Specifically
  * accounts for ReLU nonlinearities.
  *
  * Aside: for another perspective on the scaling factor, see the derivation of

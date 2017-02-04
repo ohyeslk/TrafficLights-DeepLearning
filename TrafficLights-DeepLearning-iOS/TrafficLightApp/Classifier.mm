@@ -2,8 +2,8 @@
 //  Classifier.m
 //  CaffeApp
 //
-//  Created by Takuya Matsuyama on 7/11/15.
-//  Copyright (c) 2015 Takuya Matsuyama. All rights reserved.
+//  Created by Kai Lu on 7/11/16.
+//  Copyright (c) 2016 Kai Lu. All rights reserved.
 //
 
 #import "Classifier.h"
