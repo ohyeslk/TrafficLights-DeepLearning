@@ -1,7 +1,4 @@
-## Recognizing Traffic Lights with Deep Learning
-
-This repo contains the files used to train and run the classifier described in [this blog post](https://medium.com/@davidbrai/recognizing-traffic-lights-with-deep-learning-23dae23287cc).
-This was done during a [challenge](https://challenge.getnexar.com/challenge-1) by Nexar to recognize traffic lights based on images taken by their dashcam app.
+## Traffic Lights Detection with Deep Learning
 
 ### Dependencies
 
